@@ -1,0 +1,6 @@
+ADMIN,Loki,
+ADMIN,TonyStark,
+ADMIN,Klaus,
+EMPLOYEE,Dhaani Sharma,dhaani123
+EMPLOYEE,xyz,12345678
+EMPLOYEE,marcel,marcel123
